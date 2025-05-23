@@ -1,142 +1,206 @@
 [
-    {
-        "romaji": "Kyou wa tenki ga ii desu ne.",
-        "kanji": "今日は天気がいいですね。",
-        "hiragana": "きょうはてんきがいいですね。",
-        "english": "The weather is nice today, isn't it?",
-        "segments": [
-            { "romaji": "Kyou", "kanji": "今日", "hiragana": "きょう" },
-            { "romaji": "wa", "kanji": "は", "hiragana": "は" },
-            { "romaji": "tenki", "kanji": "天気", "hiragana": "てんき" },
-            { "romaji": "ga", "kanji": "が", "hiragana": "が" },
-            { "romaji": "ii", "kanji": "いい", "hiragana": "いい" },
-            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
-            { "romaji": "ne", "kanji": "ね", "hiragana": "ね" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Ashita, eiga o mi ni ikimasen ka.",
-        "kanji": "明日、映画を観に行きませんか。",
-        "hiragana": "あした、えいがをみにいきませんか。",
-        "english": "Shall we go to watch a movie tomorrow?",
-        "segments": [
-            { "romaji": "Ashita", "kanji": "明日", "hiragana": "あした" },
-            { "romaji": ",", "kanji": "、", "hiragana": "、" },
-            { "romaji": "eiga", "kanji": "映画", "hiragana": "えいが" },
-            { "romaji": "o", "kanji": "を", "hiragana": "を" },
-            { "romaji": "mi", "kanji": "観", "hiragana": "み" },
-            { "romaji": "ni", "kanji": "に", "hiragana": "に" },
-            { "romaji": "ikimasen", "kanji": "行きません", "hiragana": "いきません" },
-            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Watashi wa nihongo o benkyou shiteimasu.",
-        "kanji": "私は日本語を勉強しています。",
-        "hiragana": "わたしはにほんごをべんきょうしています。",
-        "english": "I am studying Japanese.",
-        "segments": [
-            { "romaji": "Watashi", "kanji": "私", "hiragana": "わたし" },
-            { "romaji": "wa", "kanji": "は", "hiragana": "は" },
-            { "romaji": "nihongo", "kanji": "日本語", "hiragana": "にほんご" },
-            { "romaji": "o", "kanji": "を", "hiragana": "を" },
-            { "romaji": "benkyou", "kanji": "勉強", "hiragana": "べんきょう" },
-            { "romaji": "shiteimasu", "kanji": "しています", "hiragana": "しています" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Konban wa, genki desu ka.",
-        "kanji": "こんばんは、元気ですか。",
-        "hiragana": "こんばんは、げんきですか。",
-        "english": "Good evening, how are you?",
-        "segments": [
-            { "romaji": "Konban", "kanji": "こんばんは", "hiragana": "こんばんは" },
-            { "romaji": ",", "kanji": "、", "hiragana": "、" },
-            { "romaji": "genki", "kanji": "元気", "hiragana": "げんき" },
-            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
-            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Daijoubu desu ka.",
-        "kanji": "大丈夫ですか。",
-        "hiragana": "だいじょうぶですか。",
-        "english": "Are you okay?",
-        "segments": [
-            { "romaji": "Daijoubu", "kanji": "大丈夫", "hiragana": "だいじょうぶ" },
-            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
-            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Kore wa nan desu ka.",
-        "kanji": "これは何ですか。",
-        "hiragana": "これはなんですか。",
-        "english": "What is this?",
-        "segments": [
-            { "romaji": "Kore", "kanji": "これ", "hiragana": "これ" },
-            { "romaji": "wa", "kanji": "は", "hiragana": "は" },
-            { "romaji": "nan", "kanji": "何", "hiragana": "なん" },
-            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
-            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Nihon wa totemo kirei desu.",
-        "kanji": "日本はとても綺麗です。",
-        "hiragana": "にほんはとてもきれいです。",
-        "english": "Japan is very beautiful.",
-        "segments": [
-            { "romaji": "Nihon", "kanji": "日本", "hiragana": "にほん" },
-            { "romaji": "wa", "kanji": "は", "hiragana": "は" },
-            { "romaji": "totemo", "kanji": "とても", "hiragana": "とても" },
-            { "romaji": "kirei", "kanji": "綺麗", "hiragana": "きれい" },
-            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Itsumo arigatou gozaimasu.",
-        "kanji": "いつもありがとうございます。",
-        "hiragana": "いつもありがとうございます。",
-        "english": "Thank you always.",
-        "segments": [
-            { "romaji": "Itsumo", "kanji": "いつも", "hiragana": "いつも" },
-            { "romaji": "arigatou", "kanji": "ありがとう", "hiragana": "ありがとう" },
-            { "romaji": "gozaimasu", "kanji": "ございます", "hiragana": "ございます" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Mata ashita aimashou.",
-        "kanji": "また明日会いましょう。",
-        "hiragana": "またあしたあいましょう。",
-        "english": "Let's meet again tomorrow.",
-        "segments": [
-            { "romaji": "Mata", "kanji": "また", "hiragana": "また" },
-            { "romaji": "ashita", "kanji": "明日", "hiragana": "あした" },
-            { "romaji": "aimashou", "kanji": "会いましょう", "hiragana": "あいましょう" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    },
-    {
-        "romaji": "Tabemono ga suki desu ka.",
-        "kanji": "食べ物が好きですか。",
-        "hiragana": "たべものがすきですか。",
-        "english": "Do you like food?",
-        "segments": [
-            { "romaji": "Tabemono", "kanji": "食べ物", "hiragana": "たべもの" },
-            { "romaji": "ga", "kanji": "が", "hiragana": "が" },
-            { "romaji": "suki", "kanji": "好き", "hiragana": "すき" },
-            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
-            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
-            { "romaji": ".", "kanji": "。", "hiragana": "。" }
-        ]
-    }
+  {
+    "Romaji": "kyou,tenkigaiine.",
+    "Kanji": "今日、天気がいいね。",
+    "Hiragana": "きょう、てんきがいいね。",
+    "English": "The weather is nice today, isn't it?",
+    "Segments": [
+      {
+        "Romaji": "kyou",
+        "Kanji": "今日",
+        "Hiragana": "きょう"
+      },
+      {
+        "Romaji": ",",
+        "Kanji": "、",
+        "Hiragana": "、"
+      },
+      {
+        "Romaji": "tenki",
+        "Kanji": "天気",
+        "Hiragana": "てんき"
+      },
+      {
+        "Romaji": "ga",
+        "Kanji": "が",
+        "Hiragana": "が"
+      },
+      {
+        "Romaji": "i",
+        "Kanji": "い",
+        "Hiragana": "い"
+      },
+      {
+        "Romaji": "i",
+        "Kanji": "い",
+        "Hiragana": "い"
+      },
+      {
+        "Romaji": "ne",
+        "Kanji": "ね",
+        "Hiragana": "ね"
+      },
+      {
+        "Romaji": ".",
+        "Kanji": "。",
+        "Hiragana": "。"
+      }
+    ]
+  },
+  {
+    "Romaji": "ashita,eigawokanniikimasenka.",
+    "Kanji": "明日、映画を観に行きませんか。",
+    "Hiragana": "あした、えいがをかんにいきませんか。",
+    "English": "Shall we go to watch a movie tomorrow?",
+    "Segments": [
+      {
+        "Romaji": "ashita",
+        "Kanji": "明日",
+        "Hiragana": "あした"
+      },
+      {
+        "Romaji": ",",
+        "Kanji": "、",
+        "Hiragana": "、"
+      },
+      {
+        "Romaji": "eiga",
+        "Kanji": "映画",
+        "Hiragana": "えいが"
+      },
+      {
+        "Romaji": "wo",
+        "Kanji": "を",
+        "Hiragana": "を"
+      },
+      {
+        "Romaji": "mi",
+        "Kanji": "観",
+        "Hiragana": "み"
+      },
+      {
+        "Romaji": "ni",
+        "Kanji": "に",
+        "Hiragana": "に"
+      },
+      {
+        "Romaji": "iki",
+        "Kanji": "行き",
+        "Hiragana": "いき"
+      },
+      {
+        "Romaji": "ma",
+        "Kanji": "ま",
+        "Hiragana": "ま"
+      },
+      {
+        "Romaji": "se",
+        "Kanji": "せ",
+        "Hiragana": "せ"
+      },
+      {
+        "Romaji": "n",
+        "Kanji": "ん",
+        "Hiragana": "ん"
+      },
+      {
+        "Romaji": "ka",
+        "Kanji": "か",
+        "Hiragana": "か"
+      },
+      {
+        "Romaji": ".",
+        "Kanji": "。",
+        "Hiragana": "。"
+      }
+    ]
+  },
+  {
+    "Romaji": "kinou,atarashiiresutorandeshokujishimashita.",
+    "Kanji": "昨日、新しいレストランで食事しました。",
+    "Hiragana": "きのう、あたらしいれすとらんでしょくじしました。",
+    "English": "I dined at a new restaurant yesterday.",
+    "Segments": [
+      {
+        "Romaji": "kinou",
+        "Kanji": "昨日",
+        "Hiragana": "きのう"
+      },
+      {
+        "Romaji": ",",
+        "Kanji": "、",
+        "Hiragana": "、"
+      },
+      {
+        "Romaji": "atarashi",
+        "Kanji": "新し",
+        "Hiragana": "あたらし"
+      },
+      {
+        "Romaji": "i",
+        "Kanji": "い",
+        "Hiragana": "い"
+      },
+      {
+        "Romaji": "re",
+        "Kanji": "レ",
+        "Hiragana": "れ"
+      },
+      {
+        "Romaji": "su",
+        "Kanji": "ス",
+        "Hiragana": "す"
+      },
+      {
+        "Romaji": "to",
+        "Kanji": "ト",
+        "Hiragana": "と"
+      },
+      {
+        "Romaji": "ra",
+        "Kanji": "ラ",
+        "Hiragana": "ら"
+      },
+      {
+        "Romaji": "n",
+        "Kanji": "ン",
+        "Hiragana": "ん"
+      },
+      {
+        "Romaji": "de",
+        "Kanji": "で",
+        "Hiragana": "で"
+      },
+      {
+        "Romaji": "shokuji",
+        "Kanji": "食事",
+        "Hiragana": "しょくじ"
+      },
+      {
+        "Romaji": "shi",
+        "Kanji": "し",
+        "Hiragana": "し"
+      },
+      {
+        "Romaji": "ma",
+        "Kanji": "ま",
+        "Hiragana": "ま"
+      },
+      {
+        "Romaji": "shi",
+        "Kanji": "し",
+        "Hiragana": "し"
+      },
+      {
+        "Romaji": "ta",
+        "Kanji": "た",
+        "Hiragana": "た"
+      },
+      {
+        "Romaji": ".",
+        "Kanji": "。",
+        "Hiragana": "。"
+      }
+    ]
+  }
 ]
