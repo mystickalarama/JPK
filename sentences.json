@@ -1,50 +1,18 @@
 [
   {
-    "English": "The weather is nice today, isn't it?",
-    "Hiragana": "きょう、てんきがいいね。",
-    "Kanji": "今日、天気がいいね。",
-    "Romaji": "kyou,tenkigaiine.",
-    "Segments": [
-      {
-        "Romaji": "kyou",
-        "Kanji": "今日",
-        "Hiragana": "きょう"
-      },
-      {
-        "Romaji": ",",
-        "Kanji": "、",
-        "Hiragana": "、"
-      },
-      {
-        "Romaji": "tenki",
-        "Kanji": "天気",
-        "Hiragana": "てんき"
-      },
-      {
-        "Romaji": "ga",
-        "Kanji": "が",
-        "Hiragana": "が"
-      },
-      {
-        "Romaji": "i",
-        "Kanji": "い",
-        "Hiragana": "い"
-      },
-      {
-        "Romaji": "i",
-        "Kanji": "い",
-        "Hiragana": "い"
-      },
-      {
-        "Romaji": "ne",
-        "Kanji": "ね",
-        "Hiragana": "ね"
-      },
-      {
-        "Romaji": ".",
-        "Kanji": "。",
-        "Hiragana": "。"
-      }
-    ]
-  }
+        "romaji": "Kyou wa tenki ga ii desu ne.",
+        "kanji": "今日は天気がいいですね。",
+        "hiragana": "きょうはてんきがいいですね。",
+        "english": "The weather is nice today, isn't it?",
+        "segments": [
+            { "romaji": "Kyou", "kanji": "今日", "hiragana": "きょう" },
+            { "romaji": "wa", "kanji": "は", "hiragana": "は" },
+            { "romaji": "tenki", "kanji": "天気", "hiragana": "てんき" },
+            { "romaji": "ga", "kanji": "が", "hiragana": "が" },
+            { "romaji": "ii", "kanji": "いい", "hiragana": "いい" },
+            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
+            { "romaji": "ne", "kanji": "ね", "hiragana": "ね" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    }
 ]
