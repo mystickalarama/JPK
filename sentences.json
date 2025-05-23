@@ -1,5 +1,5 @@
 [
-  {
+    {
         "romaji": "Kyou wa tenki ga ii desu ne.",
         "kanji": "今日は天気がいいですね。",
         "hiragana": "きょうはてんきがいいですね。",
@@ -12,6 +12,130 @@
             { "romaji": "ii", "kanji": "いい", "hiragana": "いい" },
             { "romaji": "desu", "kanji": "です", "hiragana": "です" },
             { "romaji": "ne", "kanji": "ね", "hiragana": "ね" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Ashita, eiga o mi ni ikimasen ka.",
+        "kanji": "明日、映画を観に行きませんか。",
+        "hiragana": "あした、えいがをみにいきませんか。",
+        "english": "Shall we go to watch a movie tomorrow?",
+        "segments": [
+            { "romaji": "Ashita", "kanji": "明日", "hiragana": "あした" },
+            { "romaji": ",", "kanji": "、", "hiragana": "、" },
+            { "romaji": "eiga", "kanji": "映画", "hiragana": "えいが" },
+            { "romaji": "o", "kanji": "を", "hiragana": "を" },
+            { "romaji": "mi", "kanji": "観", "hiragana": "み" },
+            { "romaji": "ni", "kanji": "に", "hiragana": "に" },
+            { "romaji": "ikimasen", "kanji": "行きません", "hiragana": "いきません" },
+            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Watashi wa nihongo o benkyou shiteimasu.",
+        "kanji": "私は日本語を勉強しています。",
+        "hiragana": "わたしはにほんごをべんきょうしています。",
+        "english": "I am studying Japanese.",
+        "segments": [
+            { "romaji": "Watashi", "kanji": "私", "hiragana": "わたし" },
+            { "romaji": "wa", "kanji": "は", "hiragana": "は" },
+            { "romaji": "nihongo", "kanji": "日本語", "hiragana": "にほんご" },
+            { "romaji": "o", "kanji": "を", "hiragana": "を" },
+            { "romaji": "benkyou", "kanji": "勉強", "hiragana": "べんきょう" },
+            { "romaji": "shiteimasu", "kanji": "しています", "hiragana": "しています" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Konban wa, genki desu ka.",
+        "kanji": "こんばんは、元気ですか。",
+        "hiragana": "こんばんは、げんきですか。",
+        "english": "Good evening, how are you?",
+        "segments": [
+            { "romaji": "Konban", "kanji": "こんばんは", "hiragana": "こんばんは" },
+            { "romaji": ",", "kanji": "、", "hiragana": "、" },
+            { "romaji": "genki", "kanji": "元気", "hiragana": "げんき" },
+            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
+            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Daijoubu desu ka.",
+        "kanji": "大丈夫ですか。",
+        "hiragana": "だいじょうぶですか。",
+        "english": "Are you okay?",
+        "segments": [
+            { "romaji": "Daijoubu", "kanji": "大丈夫", "hiragana": "だいじょうぶ" },
+            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
+            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Kore wa nan desu ka.",
+        "kanji": "これは何ですか。",
+        "hiragana": "これはなんですか。",
+        "english": "What is this?",
+        "segments": [
+            { "romaji": "Kore", "kanji": "これ", "hiragana": "これ" },
+            { "romaji": "wa", "kanji": "は", "hiragana": "は" },
+            { "romaji": "nan", "kanji": "何", "hiragana": "なん" },
+            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
+            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Nihon wa totemo kirei desu.",
+        "kanji": "日本はとても綺麗です。",
+        "hiragana": "にほんはとてもきれいです。",
+        "english": "Japan is very beautiful.",
+        "segments": [
+            { "romaji": "Nihon", "kanji": "日本", "hiragana": "にほん" },
+            { "romaji": "wa", "kanji": "は", "hiragana": "は" },
+            { "romaji": "totemo", "kanji": "とても", "hiragana": "とても" },
+            { "romaji": "kirei", "kanji": "綺麗", "hiragana": "きれい" },
+            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Itsumo arigatou gozaimasu.",
+        "kanji": "いつもありがとうございます。",
+        "hiragana": "いつもありがとうございます。",
+        "english": "Thank you always.",
+        "segments": [
+            { "romaji": "Itsumo", "kanji": "いつも", "hiragana": "いつも" },
+            { "romaji": "arigatou", "kanji": "ありがとう", "hiragana": "ありがとう" },
+            { "romaji": "gozaimasu", "kanji": "ございます", "hiragana": "ございます" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Mata ashita aimashou.",
+        "kanji": "また明日会いましょう。",
+        "hiragana": "またあしたあいましょう。",
+        "english": "Let's meet again tomorrow.",
+        "segments": [
+            { "romaji": "Mata", "kanji": "また", "hiragana": "また" },
+            { "romaji": "ashita", "kanji": "明日", "hiragana": "あした" },
+            { "romaji": "aimashou", "kanji": "会いましょう", "hiragana": "あいましょう" },
+            { "romaji": ".", "kanji": "。", "hiragana": "。" }
+        ]
+    },
+    {
+        "romaji": "Tabemono ga suki desu ka.",
+        "kanji": "食べ物が好きですか。",
+        "hiragana": "たべものがすきですか。",
+        "english": "Do you like food?",
+        "segments": [
+            { "romaji": "Tabemono", "kanji": "食べ物", "hiragana": "たべもの" },
+            { "romaji": "ga", "kanji": "が", "hiragana": "が" },
+            { "romaji": "suki", "kanji": "好き", "hiragana": "すき" },
+            { "romaji": "desu", "kanji": "です", "hiragana": "です" },
+            { "romaji": "ka", "kanji": "か", "hiragana": "か" },
             { "romaji": ".", "kanji": "。", "hiragana": "。" }
         ]
     }
