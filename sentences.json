@@ -1208,7 +1208,7 @@
     "english": "He likes playing the guitar.",
     "hiragana": "かれはぎたーをひくのがすきです。",
     "kanji": "彼はギターを弾くのが好きです。",
-    "romaji": "kare ha gitā wo hiku no ga suki de su .",
+    "romaji": "kare ha gi ta - wo hiku no ga suki de su .",
     "segments": [
       {
         "romaji": "kare",
@@ -1221,9 +1221,19 @@
         "hiragana": "は"
       },
       {
-        "romaji": "gitā",
-        "kanji": "ギター",
-        "hiragana": "ぎたー"
+        "romaji": "gi",
+        "kanji": "ギ",
+        "hiragana": "ぎ"
+      },
+            {
+        "romaji": "ta",
+        "kanji": "タ",
+        "hiragana": "た"
+      },
+            {
+        "romaji": "-",
+        "kanji": "ー",
+        "hiragana": "ー"
       },
       {
         "romaji": "wo",
